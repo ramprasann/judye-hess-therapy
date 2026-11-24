@@ -1,0 +1,344 @@
+{
+  "totalTests": 42,
+  "consoleErrors": [],
+  "failedRequests": [],
+  "formSubmissionPassed": true,
+  "results": [
+    {
+      "route": "home",
+      "path": "/",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\home_desktop-1440.png"
+    },
+    {
+      "route": "home",
+      "path": "/",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\home_tablet-1024.png"
+    },
+    {
+      "route": "home",
+      "path": "/",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\home_mobile-390.png"
+    },
+    {
+      "route": "my-practice",
+      "path": "/my-practice",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\my-practice_desktop-1440.png"
+    },
+    {
+      "route": "my-practice",
+      "path": "/my-practice",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\my-practice_tablet-1024.png"
+    },
+    {
+      "route": "my-practice",
+      "path": "/my-practice",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\my-practice_mobile-390.png"
+    },
+    {
+      "route": "about-me",
+      "path": "/about-me",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\about-me_desktop-1440.png"
+    },
+    {
+      "route": "about-me",
+      "path": "/about-me",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\about-me_tablet-1024.png"
+    },
+    {
+      "route": "about-me",
+      "path": "/about-me",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\about-me_mobile-390.png"
+    },
+    {
+      "route": "qualifications",
+      "path": "/my-qualifications",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\qualifications_desktop-1440.png"
+    },
+    {
+      "route": "qualifications",
+      "path": "/my-qualifications",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\qualifications_tablet-1024.png"
+    },
+    {
+      "route": "qualifications",
+      "path": "/my-qualifications",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\qualifications_mobile-390.png"
+    },
+    {
+      "route": "publications",
+      "path": "/publications",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\publications_desktop-1440.png"
+    },
+    {
+      "route": "publications",
+      "path": "/publications",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\publications_tablet-1024.png"
+    },
+    {
+      "route": "publications",
+      "path": "/publications",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\publications_mobile-390.png"
+    },
+    {
+      "route": "family-therapy",
+      "path": "/family-therapy",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\family-therapy_desktop-1440.png"
+    },
+    {
+      "route": "family-therapy",
+      "path": "/family-therapy",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\family-therapy_tablet-1024.png"
+    },
+    {
+      "route": "family-therapy",
+      "path": "/family-therapy",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\family-therapy_mobile-390.png"
+    },
+    {
+      "route": "couples-therapy",
+      "path": "/couples-therapy",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\couples-therapy_desktop-1440.png"
+    },
+    {
+      "route": "couples-therapy",
+      "path": "/couples-therapy",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\couples-therapy_tablet-1024.png"
+    },
+    {
+      "route": "couples-therapy",
+      "path": "/couples-therapy",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\couples-therapy_mobile-390.png"
+    },
+    {
+      "route": "group-therapy",
+      "path": "/group-therapy",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\group-therapy_desktop-1440.png"
+    },
+    {
+      "route": "group-therapy",
+      "path": "/group-therapy",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\group-therapy_tablet-1024.png"
+    },
+    {
+      "route": "group-therapy",
+      "path": "/group-therapy",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\group-therapy_mobile-390.png"
+    },
+    {
+      "route": "blog",
+      "path": "/blog",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog_desktop-1440.png"
+    },
+    {
+      "route": "blog",
+      "path": "/blog",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog_tablet-1024.png"
+    },
+    {
+      "route": "blog",
+      "path": "/blog",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog_mobile-390.png"
+    },
+    {
+      "route": "blog-less-is-more",
+      "path": "/less-is-more",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-less-is-more_desktop-1440.png"
+    },
+    {
+      "route": "blog-less-is-more",
+      "path": "/less-is-more",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-less-is-more_tablet-1024.png"
+    },
+    {
+      "route": "blog-less-is-more",
+      "path": "/less-is-more",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-less-is-more_mobile-390.png"
+    },
+    {
+      "route": "blog-walking-the-tightrope",
+      "path": "/walking-the-tightrope-of-intimacy",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-walking-the-tightrope_desktop-1440.png"
+    },
+    {
+      "route": "blog-walking-the-tightrope",
+      "path": "/walking-the-tightrope-of-intimacy",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-walking-the-tightrope_tablet-1024.png"
+    },
+    {
+      "route": "blog-walking-the-tightrope",
+      "path": "/walking-the-tightrope-of-intimacy",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-walking-the-tightrope_mobile-390.png"
+    },
+    {
+      "route": "blog-dual-dwelling-duos",
+      "path": "/dual-dwelling-duos",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-dual-dwelling-duos_desktop-1440.png"
+    },
+    {
+      "route": "blog-dual-dwelling-duos",
+      "path": "/dual-dwelling-duos",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-dual-dwelling-duos_tablet-1024.png"
+    },
+    {
+      "route": "blog-dual-dwelling-duos",
+      "path": "/dual-dwelling-duos",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-dual-dwelling-duos_mobile-390.png"
+    },
+    {
+      "route": "blog-got-questions",
+      "path": "/got-questions",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-got-questions_desktop-1440.png"
+    },
+    {
+      "route": "blog-got-questions",
+      "path": "/got-questions",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-got-questions_tablet-1024.png"
+    },
+    {
+      "route": "blog-got-questions",
+      "path": "/got-questions",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\blog-got-questions_mobile-390.png"
+    },
+    {
+      "route": "contact-location",
+      "path": "/contact-location",
+      "viewport": "desktop-1440",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\contact-location_desktop-1440.png"
+    },
+    {
+      "route": "contact-location",
+      "path": "/contact-location",
+      "viewport": "tablet-1024",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\contact-location_tablet-1024.png"
+    },
+    {
+      "route": "contact-location",
+      "path": "/contact-location",
+      "viewport": "mobile-390",
+      "title": "Judye Hess, Ph.D. – Relationship Therapy",
+      "brokenImages": [],
+      "screenshot": "C:\\Users\\Uxdlab\\Desktop\\Judyehess\\tests\\screenshots\\contact-location_mobile-390.png"
+    }
+  ]
+}
